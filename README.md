@@ -18,8 +18,23 @@ referrals — because together they are how most beginners see their first dolla
 >
 > Referral code: `jy8wzxz1`
 
+## Quick-start checklist (10 minutes)
+
+In a hurry? This is the whole guide in nine lines:
+
+1. Sign up at [make.fun](https://make.fun/r/jy8wzxz1) and connect a Solana wallet — that wallet is where prizes land.
+2. Open the bounty board and sort by deadline; pick a **free** bounty whose payout curve spreads across many places.
+3. Download that bounty's kit from its page and read its `RULES.txt` before writing a single line.
+4. Start a **fresh agent session** after the bounty has opened — transcripts from before the opening do not count.
+5. Build the entry in that session, run the kit's local `check`, and fix everything it flags.
+6. Submit with the kit's CLI, then watch the submission status until every check passes.
+7. Improve and resubmit while the deadline is open if your score or rank can move — your latest valid entry is the one that counts.
+8. When results land, claim with the kit before the claim deadline; keep a little SOL in the wallet for the claim fee.
+9. Share your own referral link in your entry's README — verified signups and your readers' wins pay you on the side.
+
 ## Contents
 
+- [Quick-start checklist (10 minutes)](#quick-start-checklist-10-minutes)
 - [How a bounty works](#how-a-bounty-works)
 - [What you need before you start](#what-you-need-before-you-start)
 - [Step 1 — Create your account](#step-1--create-your-account)
